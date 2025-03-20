@@ -9,7 +9,7 @@ const WorkoutSessions = () => {
         Join Our Exclusive Bootcamps for Ultimate Transformation
         Push your limits with our specialized bootcamps, focusing on strength, agility, and endurance.
         </p>
-        <img src="/img5.jpg" alt="workout" className="rounded-lg shadow-lg w-full max-h-72 object-cover" />
+        <img src="/img5.jpg" alt="workout" />
       </div>
       <div className="wrapper">
         <h1>FEATURED BOOTCAMPS</h1>
@@ -37,21 +37,9 @@ const WorkoutSessions = () => {
             </p>
           </div>
           <div>
-            <h4>Live Performance Tracking</h4>
+            <h4>Personalized Progress Tracking</h4>
             <p>
-            Track your workout stats in real-time, including reps, sets, heart rate, and calories burned, ensuring measurable progress with every session.
-            </p>
-          </div>
-          <div>
-            <h4>Community Leaderboards & Rewards</h4>
-            <p>
-            Stay motivated by competing with fellow members, earning badges, and unlocking rewards for hitting fitness milestones.
-            </p>
-          </div>
-          <div>
-            <h4>Flexible Scheduling & On-Demand Workouts</h4>
-            <p>
-            Train at your convenience with live classes and a library of on-demand workout sessions that fit your lifestyle.
+            Our bootcamps provide real-time progress tracking with AI-powered analytics, allowing you to monitor your heart rate, calories burned, and performance improvements. Stay motivated and see tangible results!
             </p>
           </div>
         </div>
